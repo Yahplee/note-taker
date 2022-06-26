@@ -11,5 +11,5 @@ app.use(express.static("public"));
 app.use(route);
 
 app.listen(PORT, () =>
-	console.log(`App listening at http://localhost:${PORT} 🚀`)
+	console.log(`Server deployed at http://localhost:${PORT}`)
 );
