@@ -46,6 +46,15 @@ Please find a screenshot of the landing page of the application!
 Please find a screenshot of the notes page of application!
 ![image of the application's notes page](./public/assets/images/notes-landing.png)
 
+Please find a screenshot of a specific note!
+![image of a specific note](./public/assets/images/notes-view.png)
+
+Once on the notes page, you may create a new note with the "+" button on the top right.
+
+Once entered, you may save the note by pressing the save button next to the "+" icon.
+
+If you would like to delete a note, you may click on the red garbage can button.
+
 ## Questions
 
 If you have any questions, please feel free to reach me at:
